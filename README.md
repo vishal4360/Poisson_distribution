@@ -1,7 +1,7 @@
 # Fitting Poisson  distribution
-Developed By: Senthil Raj G
+Developed By: Vishal.C
 
-Register Number: 212224100054
+Register Number: 212224100062
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
