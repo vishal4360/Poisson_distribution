@@ -1,5 +1,5 @@
 # Fitting Poisson  distribution
-Developed By: Senthil Raj
+Developed By: Senthil Raj G
 
 Register Number: 212224100054
 # Aim : 
